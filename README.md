@@ -15,7 +15,7 @@ EmpowerHer uses sensors to detect menstruation and sends alerts through vibratio
 - Voice, vibration, and visual alerts
 - Designed for differently-abled users
 
-## Technologies
+## Technologies Used
 - ESP32 / nRF52832
 - BLE communication
 - Arduino / ESP-IDF
